@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-Birthday-rem/static/css/main.709481cc.chunk.css",
+    "main.js": "/react-Birthday-rem/static/js/main.0f25096d.chunk.js",
+    "main.js.map": "/react-Birthday-rem/static/js/main.0f25096d.chunk.js.map",
+    "runtime-main.js": "/react-Birthday-rem/static/js/runtime-main.389bacf1.js",
+    "runtime-main.js.map": "/react-Birthday-rem/static/js/runtime-main.389bacf1.js.map",
+    "static/js/2.b1eb24e5.chunk.js": "/react-Birthday-rem/static/js/2.b1eb24e5.chunk.js",
+    "static/js/2.b1eb24e5.chunk.js.map": "/react-Birthday-rem/static/js/2.b1eb24e5.chunk.js.map",
+    "index.html": "/react-Birthday-rem/index.html",
+    "static/css/main.709481cc.chunk.css.map": "/react-Birthday-rem/static/css/main.709481cc.chunk.css.map",
+    "static/js/2.b1eb24e5.chunk.js.LICENSE.txt": "/react-Birthday-rem/static/js/2.b1eb24e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.389bacf1.js",
+    "static/js/2.b1eb24e5.chunk.js",
+    "static/css/main.709481cc.chunk.css",
+    "static/js/main.0f25096d.chunk.js"
+  ]
+}
